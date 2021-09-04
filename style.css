@@ -1,0 +1,13 @@
+/*text decoration & transformation*/
+.one{
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+.two{
+    text-decoration: underline;
+    text-transform: lowercase;
+}
+.three{
+    text-decoration: line-through;
+    text-transform: capitalize;
+}
